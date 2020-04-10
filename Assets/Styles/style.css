@@ -77,3 +77,23 @@ footer p {
 .btn {
     margin: 8px;
 }
+
+.port-img {
+    box-sizing: border-box;
+    margin: 8px;
+}
+
+.filler {
+    box-sizing: border-box;
+    margin: 8px;
+}
+
+.card {
+    margin: 5px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.placeholder {
+    margin: 5px;
+}
