@@ -46,6 +46,7 @@ body {
 
 .about-pic {
     margin-right: 3px;
+    max-width: 300px;
 }
 
 .main-body {
