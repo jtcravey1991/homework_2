@@ -69,3 +69,11 @@ footer p {
     padding: 15px;
     color: white;
 }
+
+.form-group {
+    padding: 8px;
+}
+
+.btn {
+    margin: 8px;
+}
